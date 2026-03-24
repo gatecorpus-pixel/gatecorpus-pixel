@@ -1,6 +1,6 @@
 ## Hi there, soy el Capitán Calzoncillos 👋
 
-<img src="https://www.netflix.com/ar/title/81021976" />
+<img src="https://www.netflix.com/ar/title/81021976](https://wp.es.aleteia.org/wp-content/uploads/sites/7/2017/06/web3-capitan-calzoncillos-captain-underpants-dreamworks-animation.jpg?resize=620,350&q=75" />
 
 Here are some ideas to get you started:
 
