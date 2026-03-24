@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi there, soy el Capitán Calzoncillos 👋
 
-<!--
-**gatecorpus-pixel/gatecorpus-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="{https://www.netflix.com/ar/title/81021976}" />
 
 Here are some ideas to get you started:
 
